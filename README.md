@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=FDCB58&height=300&section=header&text=SeoYun.Jang&fontSize=90&animation=blinking 1.6s)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=FDCB58&height=300&section=header&text=SeoYun.Jang&fontSize=90&animation=blinking1.6s)
 
 <h2 align="center">:walking: Tech Stack :runner:</h2>
 
