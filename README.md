@@ -6,5 +6,5 @@
 <h3 align="center">Techs that I've used at least once</h3>
 
 <p align="center">
-  ![](https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=Java&logoColor=white)
+  https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=Java&logoColor=white
 </p>
