@@ -5,6 +5,7 @@
 <h3 align="center">Techs that I've used at least once</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&amp;logo=Java&amp;logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&amp;logo=JavaScript&amp;logoColor=white">
+  <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&amp;logo=Java&amp;logoColor=white" alt=""> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&amp;logo=Spring&amp;logoColor=white" alt=""> <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&amp;logo=SpringBoot&amp;logoColor=white" alt=""> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&amp;logo=JavaScript&amp;logoColor=white" alt=""> <img src="https://img.shields.io/badge/Apache_Maven-C71A36?style=flat-square&amp;logo=ApacheMaven&amp;logoColor=white" alt=""><br>
+<img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&amp;logo=Oracle&amp;logoColor=white" alt=""> <img src="https://img.shields.io/badge/MySQL-4169E1?style=flat-square&amp;logo=MySQL&amp;logoColor=white" alt=""><br>
+<img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&amp;logo=VisualStudioCode&amp;logoColor=white" alt=""> <img src="https://img.shields.io/badge/CSS3-F43059?style=flat-square&amp;logo=CSS3&amp;logoColor=white" alt=""><br>
 </p>
