@@ -9,6 +9,7 @@
 <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&amp;logo=VisualStudioCode&amp;logoColor=white" alt=""> <img src="https://img.shields.io/badge/CSS3-F43059?style=flat-square&amp;logo=CSS3&amp;logoColor=white" alt=""><br>
 </p>
 
-<h2 align="center">:walking: i'am :runner:</h2>
-<h3 align="center">Techs that I've used at least once</h3>
+<h2 align="center">:walking: I'm :runner:</h2>
+<h3 align="center">SNS</h3>
+
 
