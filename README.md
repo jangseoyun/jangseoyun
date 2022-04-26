@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=FDCB58&height=300&section=header&text=SeoYun.Jang&fontSize=90&animation=twinkling4s)
 
 <hr>
