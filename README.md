@@ -14,7 +14,7 @@
 <h3 align="center">SNS</h3>
 
 <p align="center">
-<a href="https://www.instagram.com/hello_rawmite/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a> <a href="https://www.instagram.com/real_farmers_/" target="_blank"><img src="https://img.shields.io/badge/Farmer_Instagram-43B02A?style=flat-square&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.instagram.com/hello_rawmite/" target="_blank"><img src="https://img.shields.io/badge/Rawfood_Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a> <a href="https://www.instagram.com/real_farmers_/" target="_blank"><img src="https://img.shields.io/badge/Farmer_Instagram-43B02A?style=flat-square&logo=Instagram&logoColor=white"/></a>
 </p>
 
 
