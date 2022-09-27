@@ -1,4 +1,7 @@
-<p align="left">Welcome to Seoyun Github Profile :raising_hand:</p>
+## Welcome to Seoyun Github Profile :raising_hand:
+
+🔗 Velog : [Velog 바로가기](https://velog.io/@may_yun/series) <br>
+📧 Email : syjang0501@gmail.com
 
 <hr>
 
